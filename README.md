@@ -25,12 +25,5 @@ Generate financial reports to get a clear overview of your spending patterns, in
 File Structure
 The project consists of several key files, including the main application file, logic for managing accounts, and handling financial transactions.
 
-# Future Enhancements
-## Bank Integration:
-Synchronize with bank accounts to automate transaction recording.
-## Mobile Support:
-Develop a mobile version for easier access.
-## Cloud Backup:
-Enable data backup and sync across multiple devices.
 ## Contributions:
 Contributions to the project are welcome. Feel free to report issues or submit new features through pull requests.
